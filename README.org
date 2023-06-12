@@ -1,0 +1,10 @@
+* factory-alien
+
+A library for generating fixtures quickly and flexibly - modeled on the great factory_bot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/factory-alien.git   |
+| commit  | {"messa  |
+| systems | factory-alien |
+|---------+-------------------------------------------|
+
