@@ -4,7 +4,7 @@ A library for generating fixtures quickly and flexibly - modeled on the great fa
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fisxoj/factory-alien.git   |
-| commit  | {"messa  |
+| commit  | 9e8484a  |
 | systems | factory-alien |
 |---------+-------------------------------------------|
 
